@@ -23,30 +23,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (AI Productivity Measurement)
 
-- **[DX](https://dx.com/)**  
-  Leading developer experience and productivity platform with AI-powered insights, benchmarks, and team health metrics.
-
-- **[Swarmia](https://swarmia.com/)**  
-  Engineering intelligence platform that combines DORA metrics, AI analysis, and actionable recommendations.
-
-- **[Faros AI](https://www.faros.ai/)**  
-  Comprehensive engineering intelligence and productivity analytics platform with strong AI capabilities.
-
-- **[Weave](https://www.weave.ai/)**  
-  AI-driven productivity measurement focused on engineering workflows and team performance.
-
-- **[Exceeds AI](https://exceeds.ai/)**  
-  AI platform delivering deep insights into developer productivity and organizational efficiency.
-
-- **[We360.ai](https://www.we360.ai/)**  
-  Workforce productivity and analytics platform with AI-powered reporting and insights.
-
-- **[48DX](https://48dx.com/)**  
-  Modern developer productivity measurement tool with real-time analytics and AI recommendations.
+| Tool | Description | Pricing | Free Tier |
+| :--- | :--- | :--- | :--- |
+| **[DX](https://dx.com/)** | Leading developer experience and productivity platform with AI-powered insights, benchmarks, and team health metrics. | Custom (~$51k ARR median) | No |
+| **[Swarmia](https://swarmia.com/)** | Engineering intelligence platform that combines DORA metrics, AI analysis, and actionable recommendations. | $45 /dev/mo | Yes (<10 devs) |
+| **[Faros AI](https://www.faros.ai/)** | Comprehensive engineering intelligence and productivity analytics platform with strong AI capabilities. | $30–$60 /dev/mo (est.) | Yes (Self-hosted CE) |
+| **[Weave](https://www.weave.ai/)** | AI-driven productivity measurement focused on engineering workflows and team performance. | $50 /engineer/mo | Yes (<5 devs) |
+| **[Exceeds AI](https://exceeds.ai/)** | AI platform delivering deep insights into developer productivity and organizational efficiency. | $49 /manager/mo | 7-day Pilot |
+| **[We360.ai](https://www.we360.ai/)** | Workforce productivity and analytics platform with AI-powered reporting and insights. | ~$3.60 /user/mo | No |
+| **[LinearB](https://linearb.io/)** | Engineering intelligence platform providing visibility into DORA metrics and workflow automation. | ~$30 /dev/mo | Yes (<10 devs) |
+| **[Pluralsight Flow](https://www.pluralsight.com/product/flow)** | Engineering intelligence and productivity analytics platform for visibility into developer workflows. | $38 /contributor/mo | No |
+| **[Haystack](https://usehaystack.io/)** | Engineering intelligence tool focused on DORA metrics and preventing developer burnout. | $20 /member/mo | 14-day Trial |
+| **[Jellyfish](https://jellyfish.co/)** | Engineering Management Platform for strategic alignment and business value visibility. | Custom (~$35k min) | No |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: LinearB, Pluralsight Flow, and various engineering intelligence platforms.
+**Notable Mentions**: Various other niche and specialized engineering intelligence platforms.
 
 ## Open-Source GitHub Projects
 
