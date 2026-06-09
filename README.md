@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Productivity-Measurement-Tools.svg)](https://github.com/ishandutta2007/Awesome-AI-Productivity-Measurement-Tools/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
