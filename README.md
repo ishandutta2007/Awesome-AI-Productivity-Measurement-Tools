@@ -1,11 +1,20 @@
 # 🚀 Awesome AI Productivity Measurement Tools
 
+<div align="center">
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Productivity-Measurement-Tools.svg)](https://github.com/ishandutta2007/Awesome-AI-Productivity-Measurement-Tools/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 **A curated list of SaaS products and Open-Source projects focused on Engineering Productivity, Team Performance, and Developer Analytics.**
+
+</div>
 
 ## 🌟 Overview
 
